@@ -1,1 +1,82 @@
-# devops-roadmap
+# devops-roadmap- 
+- Part 1 - DevOps Pre-Requisites - Part 1
+  - 1.1 - Programing Language
+    - Python
+    - Go
+    - Shell Scripts
+    - SDLC
+  - 1.2 - Version Control - GiT
+    - Git Workflows
+    - Branching Strateries
+    - Git Commands
+    - Merge Conflits Resoloving
+    - Collobarative Development
+    - Code Review Process
+- Part 2 - DevOps Pre-Requisites - Part 2
+   - OS - Linux OS Fundamentals
+     - Shell Commands
+     - Liniux FileSystem
+     - SSH Key Management
+     - Virtualization
+     - Packages
+  - Network & Security
+    - Configuring Firewall to Secure Access
+    - Understanding IP Address, Ports, DNS
+    - Load Balancers
+    - Proxies
+    - HTTP/HTTPS
+  - Part 3 - Cloud Provider
+  - Flexible,
+  - scalable
+  - pay-as-you-go infrastructure
+  - Cloud Infrastructure
+  - Cloud and Why Cloud
+    - Cost Efficiency
+    - Scalability & Flexibility
+    - Reliablitity & Security
+    - Focus
+  - Learn 1 Cloud Provider
+    - Core Cloud Services
+      - AWS IAM
+      - AWS VPC
+      - AWS EC2
+- Part 4 Containerization
+  - With Container  
+    - App Code  
+    - Configuration  
+   - Start Script
+   - Dependencies
+   - Runtime
+  - What are Containers
+    - Docker
+       - Building Images
+       - Starting, Stopping Containers
+       - Inspecti active containers
+       - Docker Networking
+       - Persist data with Docker Volume
+ - Part 5 Container Orchestation - Mananging Thousands of Container across hunders of servers
+   - Kubernetes
+     - Container Orchestations with Kubernetes
+     - Learn core components like, Deployment, Service, ConfigMap, Secret, StatefulSet, Ingress
+     - Kubernetes CLI (Kubectl)
+     - Persisting data with K8s Volumes
+     - Namespaces
+  - CI/CD
+    - CI Pipeline
+      - Build
+      - Unit Tests
+      - Package
+      - Integration Tests
+    - Artifact Repository
+    - CD Pipeline
+      - Deploy to Test
+      - Acceptance Tests
+      - Deploy to Stating
+      - Deploy to Prod
+    - IAC
+    - Monitoing & Logging
+       
+
+  
+
+
